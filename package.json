@@ -1,0 +1,35 @@
+{
+  "name": "heart-disease-logger",
+  "version": "1.0.0",
+  "description": "A junk food logger with MySQL, Node, Express, Handlebars and a homemade ORM.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cml2377/Heart-Disease-Logger.git"
+  },
+  "keywords": [
+    "burger",
+    "logger",
+    "bootcamp",
+    "mysql",
+    "node",
+    "express",
+    "handlebars",
+    "orm"
+  ],
+  "author": "Crystal Ly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cml2377/Heart-Disease-Logger/issues"
+  },
+  "homepage": "https://github.com/cml2377/Heart-Disease-Logger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.18.1"
+  }
+}
